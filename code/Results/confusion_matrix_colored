@@ -1,0 +1,12 @@
+Actual,Bacterial_spot,Early_blight,Late_blight,Leaf_Mold,Septoria_leaf_spot,Target_Spot,Yellow_Leaf_Curl,healthy,leaf_spot,mosaic_virus,spider_mite
+Bacterial_spot,200,1,0,1,0,0,1,2,6,1,0
+Early_blight,8,69,0,1,0,0,0,1,6,7,2
+Late_blight,4,1,1,2,0,0,0,171,2,3,3
+Leaf_Mold,1,0,79,9,0,0,0,0,0,0,0
+Septoria_leaf_spot,4,0,5,152,0,1,4,6,3,3,2
+Target_Spot,4,0,0,4,0,0,4,2,0,122,1
+Yellow_Leaf_Curl,9,2,0,2,0,0,3,0,541,2,0
+healthy,0,0,0,1,0,0,0,1,0,1,150
+leaf_spot,0,0,0,0,0,0,0,0,0,0,0
+mosaic_virus,0,0,5,1,0,29,0,0,0,0,0
+spider_mite,1,0,0,2,0,1,158,0,1,6,1
